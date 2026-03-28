@@ -1,3 +1,5 @@
+[![GitHub all releases](https://img.shields.io/github/downloads/gnsc4/PaxDei-Releases/total)](https://github.com/gnsc4/PaxDei-Releases/releases)
+
 # Pax Dei Timers Standalone
 
 **Version:** 2.4.3
