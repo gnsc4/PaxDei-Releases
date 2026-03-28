@@ -4,8 +4,6 @@
 
 **Author:** [GNSCHRIS](https://discord.gg/GRTygqRB2u)
 
-**Debug Mode:** `DEBUG = true` *(Standard background logging enabled)*
-
 Welcome to the Pax Dei Timers Standalone Overlay! This application is an unobtrusive, always-on-top utility designed to help you and your clan easily track respawn timers for resources, PvP gates, and other important nodes in Pax Dei without ever having to alt-tab out of your game.
 
 ## 📜 Terms of Use
